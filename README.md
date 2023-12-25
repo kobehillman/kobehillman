@@ -10,6 +10,17 @@ About a year later, I decided that I would do small game development projects on
 
 I'm currently enrolled at Ivy Tech Community College working toward a transferrable AS degree and plan on transferring to a four-year university as a Junior working toward a BS degree.
 
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt= "Python Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git Logo" width="50" height="50" />
+
+---
+
+
+
+
 <!--
 **kobehillman/kobehillman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
