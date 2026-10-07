@@ -20,9 +20,9 @@ I'm currently enrolled at Ivy Tech Community College working toward a transferra
 
 📈 My GitHub Stats
 
-![Kobe's GitHub stats](https://github-stats-extended.vercel.app/api?username=kobehillman&show_icons=true&theme=tokyonight)
+[![Kobe's GitHub stats](https://github-stats-extended.vercel.app/api?username=kobehillman)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kobehillman&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/kobehillman/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kobehillman&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/kobehillman/stats-organization/github-stats-extended)
 
 
 <!--
